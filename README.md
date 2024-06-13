@@ -23,7 +23,7 @@ https://github.com/daniprado224/can_ai_understand_music
  - Overrall, this project highlighted the ethical and technical complexities AI has on the music industry. To me, it showcased how important it is to study and underatand evolving technologies. 
  
 ### Skills: 
-- ### Programming:
+### Programming:
 - API Development, C++/C/C#, Java, Javascript, Web Programming, Weka, Python, R Programming, SQL, JDE
 - ### Machine Learning:
 - Pycaret, Data Analysis, Data Mining, Recommendation Systems, Predictive Modeling, Regressive Models, Hyperparameter tuning 
