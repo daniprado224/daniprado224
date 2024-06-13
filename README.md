@@ -8,7 +8,7 @@
 - Currently working as an intern for 20/15 Visioneers, a company focused on working with technology big pharma to understand and process big pharma data. 
 - As a personal project, I am working on analyzing data from the industries I am interested in, and get a deeper understanding of how these industries function.
 - I am driven engineer who is always on the search for my next passion project.
-- 
+  
 ### Personal Projects:
 ### Deep Dive Into Lionel Messi:
 https://github.com/daniprado224/messi_goals
